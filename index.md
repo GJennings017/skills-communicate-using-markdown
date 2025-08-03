@@ -4,3 +4,10 @@
 
 ```javascript
 var myVar = "Hello, world!";
+
+## Project Tasks
+
+- [ ] Set up project structure
+- [x] Add README file
+- [ ] Upload initial code
+- [ ] Write documentation

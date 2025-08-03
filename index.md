@@ -4,6 +4,7 @@
 
 ```javascript
 var myVar = "Hello, world!";
+'''
 
 ## Project Tasks
 
